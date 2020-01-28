@@ -1,11 +1,12 @@
 # Brownfield Land Report (proof of concept)
 
 ## Installation
-[Node >=10](https://nodejs.org) and [NPM](https://npmjs.com)
-`git clone` this repository
-`cd` into the directory
-Run `npm install`
-Run `git submodule update --remote` to ensure you have the latest version of the [brownfield-land-collection](https://github.com/digital-land/brownfield-land-collection)
+
+1. [Node >=10](https://nodejs.org) and [NPM](https://npmjs.com)
+1. `git clone` this repository
+1. `cd` into the directory
+1. Run `npm install`
+1. Run `git submodule update --remote` to ensure you have the latest version of the [brownfield-land-collection](https://github.com/digital-land/brownfield-land-collection)
 
 ## Generating statistics
 Run `node index.js` in a Terminal and JSON results should be output into it
