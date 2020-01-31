@@ -10,14 +10,18 @@
 
 ## Generating statistics
 Run:
-`node index.js > ./results/index.json`
-`node organisation.js > ./results/organisation.json`
-`node ping.js > ./results/ping.json`
+```
+node index.js > ./results/index.json
+node organisation.js > ./results/organisation.json
+node ping.js > ./results/ping.json
+```
 
 Results will be in JSON files in ./results
 
 ## Calculations
 This outputs:
+
+`./results/index.json`:
 
 - active_count - how many rows have a start-date but no end-date
 - datasets
@@ -30,3 +34,11 @@ This outputs:
   - count - how many rows that have a different organisation key
   - active_count - how many rows have a different organisation key and a start-date
   - inactive_count - how many rows have a diffeerent organisation key, start-date, and end-date
+
+`./results/organisation.json`:
+
+- a list of organisations that don't appear in brownfield-land-collection but are active. However, many of these organisations don't need to publish a brownfield land register
+
+`./results/ping.json`:
+
+- a breakdown of URLs by local authority that are successful or not, and registers that have an end-date but return a 200 status code
