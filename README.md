@@ -3,7 +3,7 @@
 ## Installation
 
 1. [Node >=10](https://nodejs.org) and [NPM](https://npmjs.com)
-1. `git clone` this repository
+1. `git clone --remote` this repository
 1. `cd` into the directory
 1. Run `npm install`
 1. Run `git submodule update --remote` to ensure you have the latest version of the [brownfield-land-collection](https://github.com/digital-land/brownfield-land-collection)
