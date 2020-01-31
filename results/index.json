@@ -1,0 +1,34 @@
+{
+    "active_count": 302,
+    "datasets": {
+        "average_alive_length": 453.683668838255
+    },
+    "oldest": {
+        "active": {
+            "organisation": "local-authority-eng:SRI",
+            "documentation-url": "https://www.southribble.gov.uk/content/housing-land-availability",
+            "resource-url": "https://www.southribble.gov.uk/sites/default/files/South%20Ribble%20Brownfield%20Register%20-%20June%202016.csv",
+            "start-date": "2016-06-01",
+            "end-date": ""
+        },
+        "inactive": {
+            "organisation": "local-authority-eng:CAR",
+            "documentation-url": "http://www.carlisle.gov.uk/planning-policy/Evidence-Base/Brownfield-Register",
+            "resource-url": "https://s3.eu-west-2.amazonaws.com/digital-land/brownfield-sites/CAR-2017-07-23.csv",
+            "start-date": "2017-07-23",
+            "end-date": "2019-12-21"
+        },
+        "overall": {
+            "organisation": "local-authority-eng:SRI",
+            "documentation-url": "https://www.southribble.gov.uk/content/housing-land-availability",
+            "resource-url": "https://www.southribble.gov.uk/sites/default/files/South%20Ribble%20Brownfield%20Register%20-%20June%202016.csv",
+            "start-date": "2016-06-01",
+            "end-date": ""
+        }
+    },
+    "organisations": {
+        "count": 344,
+        "active_count": 191,
+        "inactive_count": 79
+    }
+}

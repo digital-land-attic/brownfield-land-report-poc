@@ -107,5 +107,5 @@ csv().fromFile(dataset).then(json => {
     }
   }
 }).then(result => {
-  console.log(result)
+  console.log(JSON.stringify(result, null, 4))
 })
