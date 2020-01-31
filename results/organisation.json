@@ -1,0 +1,261 @@
+[
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "development-corporation:Q72456968",
+        "name": "South Tees Development Corporation",
+        "website": "https://www.southteesdc.com"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "development-corporation:Q72463795",
+        "name": "Ebbsfleet Development Corporation",
+        "website": "https://www.gov.uk/government/organisations/ebbsfleet-development-corporation"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:BKM",
+        "name": "Buckinghamshire County Council",
+        "website": "https://www.buckscc.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:CAM",
+        "name": "Cambridgeshire County Council",
+        "website": "https://www.cambridgeshire.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:CMA",
+        "name": "Cumbria County Council",
+        "website": "https://www.cumbria.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:CPCA",
+        "name": "Cambridgeshire and Peterborough Combined Authority",
+        "website": "https://cambridgeshirepeterborough-ca.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:DBY",
+        "name": "Derbyshire County Council",
+        "website": "https://www.derbyshire.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:DEV",
+        "name": "Devon County Council",
+        "website": "https://www.devon.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:ESS",
+        "name": "Essex County Council",
+        "website": "https://www.essex.gov.uk/"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:ESX",
+        "name": "East Sussex County Council",
+        "website": "https://www.eastsussex.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:GLS",
+        "name": "Gloucestershire County Council",
+        "website": "https://www.gloucestershire.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:GMCA",
+        "name": "Greater Manchester Combined Authority",
+        "website": "https://www.greatermanchester-ca.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:HAM",
+        "name": "Hampshire County Council",
+        "website": "https://www.hants.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:HRT",
+        "name": "Hertfordshire County Council",
+        "website": "https://www.hertsdirect.org/"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:KEN",
+        "name": "Kent County Council",
+        "website": "https://www.kent.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:LAN",
+        "name": "Lancashire County Council",
+        "website": "https://www.lancashire.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:LCR",
+        "name": "Liverpool City Region",
+        "website": "https://www.liverpoolcityregion-ca.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:LEC",
+        "name": "Leicestershire County Council",
+        "website": "https://www.leics.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:LIN",
+        "name": "Lincolnshire County Council",
+        "website": "https://www.lincolnshire.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:NECA",
+        "name": "North East Combined Authority",
+        "website": "https://northeastca.gov.uk/"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:NFK",
+        "name": "Norfolk County Council",
+        "website": "https://www.norfolk.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:NTH",
+        "name": "Northamptonshire County Council",
+        "website": "https://www.northamptonshire.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:NTT",
+        "name": "Nottinghamshire County Council",
+        "website": "https://www.nottinghamshire.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:NYK",
+        "name": "North Yorkshire County Council",
+        "website": "https://www.northyorks.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:OXF",
+        "name": "Oxfordshire County Council",
+        "website": "https://www.oxfordshire.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:SCR",
+        "name": "Sheffield City Region",
+        "website": "https://sheffieldcityregion.org.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:SFK",
+        "name": "Suffolk County Council",
+        "website": "https://www.suffolk.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:SOM",
+        "name": "Somerset County Council",
+        "website": "https://www.somerset.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:SRY",
+        "name": "Surrey County Council",
+        "website": "https://www.surreycc.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:STS",
+        "name": "Staffordshire County Council",
+        "website": "https://www.staffordshire.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:TVCA",
+        "name": "Tees Valley Combined Authority",
+        "website": "https://teesvalley-ca.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:WAR",
+        "name": "Warwickshire County Council",
+        "website": "https://www.warwickshire.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:WECA",
+        "name": "West of England Combined Authority",
+        "website": "https://www.westofengland-ca.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:WMCA",
+        "name": "West Midlands Combined Authority",
+        "website": "https://www.wmca.org.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:WOR",
+        "name": "Worcestershire County Council",
+        "website": "https://www.worcestershire.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:WSX",
+        "name": "West Sussex County Council",
+        "website": "https://www.westsussex.gov.uk"
+    },
+    {
+        "active": true,
+        "in-brownfield": [],
+        "organisation": "local-authority-eng:WYCA",
+        "name": "West Yorkshire Combined Authority",
+        "website": "https://www.westyorks-ca.gov.uk/"
+    }
+]

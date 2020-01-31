@@ -9,7 +9,12 @@
 1. Run `git submodule update --remote` to ensure you have the latest version of the [brownfield-land-collection](https://github.com/digital-land/brownfield-land-collection)
 
 ## Generating statistics
-Run `node index.js` in a Terminal and JSON results should be output into it
+Run:
+`node index.js > ./results/index.json`
+`node organisation.js > ./results/organisation.json`
+`node ping.js > ./results/ping.json`
+
+Results will be in JSON files in ./results
 
 ## Calculations
 This outputs:
