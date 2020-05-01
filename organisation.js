@@ -1,7 +1,7 @@
 const csv = require('csvtojson')
 const path = require('path')
 const brownfield = path.join(__dirname, 'brownfield-land-collection/dataset/brownfield-land.csv')
-const organisations = path.join(__dirname, 'organisation-collection/collection/organisation.csv')
+const organisations = path.join(__dirname, 'organisation-dataset/collection/organisation.csv')
 
 csv().fromFile(organisations).then(async function (json) {
   const brownfieldData = await csv().fromFile(brownfield)
